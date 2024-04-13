@@ -1,7 +1,7 @@
-# Okp4
+# Axone Protocol
 
-# Okp4
-Okp4 Node Installation Instructions </br>
+# Axone Protocol
+Axone Protocol Node Installation Instructions </br>
 ### [Official documentation](https://docs.okp4.network)
 
 ### System requirements: </br>
@@ -45,7 +45,7 @@ go version
 cd && rm -rf okp4d
 git clone https://github.com/okp4/okp4d
 cd okp4d
-git checkout v6.0.0
+git checkout v7.0.0
 ```
 
 # Build binary
@@ -178,7 +178,7 @@ okp4d tx staking create-validator \
 There have been no updates at the moment, as soon as they come out, we will immediately add them to this section.
 
 Current network:okp4-drunemeton-1
-Current version:v6.0.0
+Current version:v7.0.0
 ```
 
 ### Useful commands
